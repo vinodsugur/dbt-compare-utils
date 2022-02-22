@@ -1,10 +1,13 @@
-Welcome to your new dbt project!
+This dbt package contains macros that can be (re)used across dbt projects.
 
-### Using the starter project
+## Installation Instructions
+Check [dbt Hub](https://hub.getdbt.com/dbt-labs/dbt_utils/latest/) for the latest installation instructions, or [read the docs](https://docs.getdbt.com/docs/package-management) for more information on installing packages.
 
-Try running the following commands:
-- dbt run
-- dbt test
+----
+## Contents
+
+**[Schema tests](#schema-tests)**
+  - [compare_table]
 
 
 ### Resources:
